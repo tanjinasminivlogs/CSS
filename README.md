@@ -1,1 +1,1 @@
-Frontend Mentor - Product preview card component![Frontend Mentor _ Product preview card component - Personal - Microsoft​ Edge 3_15_2025 10_58_07 AM](https://github.com/user-attachments/assets/43a93783-6680-4db0-b9cf-81d8a85167a8)
+Frontend Mentor - Product preview card componen![Screenshot](https://github.com/user-attachments/assets/15b9f854-a1ce-4939-aad3-4fe1bc952e66)
